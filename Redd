@@ -5,10 +5,45 @@ Red Door DIM Wishlist instructions.
 How to add to the Red Door Wishlist. Go to d2gunsmith.com and select the weapon you have an opinion on. Select perks and do not select MW or Mods. Click the DIM copy button and paste into Discord Channel…. Add flavor text and recommended MW, Mod and PvP and/or PvE. 
 
 
+// A Sudden Death
+dimwishlist:item=-2855157553&perks=2869569095,3592538738#notes:GuiJ: Dismantle now
+
+// Ancient Gospel
+dimwishlist:item=48643186&perks=1482024992,3142289711,699525795,1015611457#notes:GuiJ: GuiJ Roll(Severely Under-rated) - MW: Rng
+
+// Blasphemer
+dimwishlist:item=2782847179&perks=3250034553,3142289711,706527188,47981717#notes:GuiJ: PVP GuiJ Roll Chappy Replacement B - MW: Rng
+
+// Dire Promise
+dimwishlist:item=-2742838701&perks=3300816228,1645158859#notes:GuiJ: You'd have more luck throwing your mother.
+dimwishlist:item=2742838701&perks=1926090094,1885400500,957782887,2846385770#notes:GuiJ: Go forth and make them cry - MW: Rng
+
+// Farewell
+dimwishlist:item=541188001&perks=4090651448,3142289711,588594999,2458213969#notes:GuiJ: GuiJ Roll(ITS SO GOOD) - MW: Rng
+
+// Fractethyst
+dimwishlist:item=3184681056&perks=1047830412,3142289711,706527188,47981717#notes:GuiJ: PVP DRB replacement- MW: Rng
+
+// Hawkmoon
+dimwishlist:item=3856705927&perks=1482024992,1431678320,699525795,3326204863#notes:GuiJ: PVP Dueling Machine
+dimwishlist:item=3856705927&perks=4090651448,1431678320,47981717,3326204863#notes:GuiJ: PVP GuiJ Roll
+
+// Heritage
+dimwishlist:item=4248569242&perks=3250034553,3142289711,1866048759,957782887#notes:GuiJ: PVP GuiJ Roll Chappy Replacement A - MW: Rng or Hand
+
 // Judgment (S15)
 dimwishlist:item=1476654960&perks=1926090092,3142289711,2946784966,1954620775,384158423#notes:Fox - PvP - MW:Stability - Want to flinch the Fuck out of your target? This is the roll you want!
 dimwishlist:item=1476654960&perks=1926090095,3177308360,3523296417,47981717#notes:GuiJrmo - PVP: MW- Stability or Range - Great for all grenade builds in crucible!
+dimwishlist:item=1476654960&perks=1926090095,3177308360,3523296417,47981717#notes:GuiJ: PVP GuiJ Roll(Devour=LOL) - MW: Rng
+dimwishlist:item=1476654960&perks=1926090095,3177308360,3523296417,2458213969#notes:GuiJ: PVP Chain dem kills - MW: Rng
 
+// Luna's Howl
+dimwishlist:item=153979396#notes:GuiJ: Its like taco bell, you know you shouldn't but you cant stop yourself.
+
+// Main Ingredient
+dimwishlist:item=253196586&perks=2405638014,3868766766,280464955,2846385770#notes:GuiJ: PVP 25m no problem - MW: Rng
+dimwishlist:item=253196586&perks=2405638014,3868766766,1645158859,2846385770#notes:GuiJ: PVP watch when you reload - MW: Stab
+dimwishlist:item=253196586&perks=2405638014,2969185026,280464955,2846385770#notes:GuiJ: PVP GuiJ Roll - MW: Stab
 
 // The Messenger
 dimwishlist:item=3658188704&perks=3047969693#notes:Fox - PvP - It’s got Desperato…what more do you want?!?!?
@@ -26,8 +61,14 @@ dimwishlist:item=1107446438&perks=839105230,3142289711,247725512,3425386926,3841
 // Vulpecula
 dimwishlist:item=1622998472&perks=1482024992,3142289711,1168162263,124408337,2697220197#notes:Zanto's Gambit/PvE roll. Stability and Range with crowd control.
 
+// Finite Impactor
+dimwishlist:item=3813153080&perks=1926090095,1885400500,1570042021,591790007#notes:GuiJ: PVP Range/Stab balance - MW: Stab
+dimwishlist:item=3813153080&perks=1926090095,1885400500,2866798147,699525795#notes:GuiJ: PVP Dueling Machine - MW: Rng, Stab, or Hand
+dimwishlist:item=3813153080&perks=1926090095,1885400500,2866798147,11551321#notes:GuiJ: PVP Consistency Machine - MW: Rng or Stab
+dimwishlist:item=3813153080&perks=1926090095,1885400500,1570042021,2458213969#notes:GuiJ: PVP, "You interested chaining kills?" - MW: Rng or Stab
+
 // Found Verdict 
-dimwishlist:item=3197270240&perks=3142289711,3161816588,47981717#notes:Fox - PvP - MW: Range - Any Barrel will do. Slide…Shoot, MURDER!
+dimwishlist:item=3197270240&perks=3142289711,3161816588,47981717#notes:Fox - PvP - MW: Range - Any Barrel will do. Slide…Shoot = OHK!
 
 // Fractethyst
 dimwishlist:item=3184681056&perks=1047830412,3142289711,3161816588,2360754333,2697220197#notes:Zanto's - PvP, PvE, Gambit - Bubble Shotgun.
@@ -44,20 +85,61 @@ dimwishlist:item=3409645497&perks=839105230,3142289711,1570042021,3425386926#not
 // Vision of Confluence
 dimwishlist:item=3186018373&perks=839105230,1087426260,2387244414,4267945040#notes:Fox - PvE - MW:Stability or Range - This is the D1 Roll !
 
+// Survivor's Epitaph
+dimwishlist:item=310708513&perks=3250034553,1885400500,2450788523,1015611457#notes:GuiJ: Get a kill start chaining dem crispy .67 3-taps - MW: Rng
 
 // The Swarm (Adept)
 dimwishlist:item=3836861464&perks=1482024992,3142289711,1359896290,1546637391#notes:Fox - PvE - MW:Reload - Throw on Adept Big Ones and let it Rip! 
 
 
 // SHAYURA'S WRATH
-dimwishlist:item=3682803680&perks=3250034553,3142289711,1570042021,1015611457#notes:GuiJrmo - PVP: 25m base range! “Laughs Maniacally”
-dimwishlist:item=3682803680&perks=4090651448,3142289711,1359896290,438098033#notes:GuiJrmo - PVE: Recluse 2.0, nuff said.
+dimwishlist:item=3682803680&perks=3250034553,3142289711,1570042021,1015611457#notes:GuiJrmo - PvP: 25m base range! “Laughs Maniacally”
+dimwishlist:item=3682803680&perks=3250034553,3142289711,1570042021,1015611457#notes:GuiJ: PVP Kill Chaining Machine - MW: Rng or Hand
+dimwishlist:item=3682803680&perks=4090651448,3142289711,1359896290,438098033#notes:GuiJrmo - PvE: Recluse 2.0, nuff said.
+dimwishlist:item=3682803680&perks=1840239774,3142289711,1866048759,1015611457#notes:GuiJ: PVP High Handling - MW: Rng or Hand
 
-//CORSAIR’S WRATH (Seaonal)
+
+//CORSAIR’S WRATH (Seasonal)
 dimwishlist:item=2714022207&perks=1840239774,2680121939,1168162263,2213355989#notes:Fox - PvE - In the season of Fusions, here is a great Solar alternative to Sleeper.
 
 // Jurassic Green
 dimwishlist:item=2261046232&perks=839105230,1885400500,1570042021,2458213969#notes:Fox - PvP - MW:Range or Stability - Add a Counterbalance Mod to get the Recoil to 95 and this should melt face in Crucible
+
+// Revoker
+dimwishlist:item=-654608616#notes:GuiJ: If you are still using this you will probably die alone.
+
+// The Palindrome (Adept)
+dimwishlist:item=1481892490&perks=1482024992,1885400500,706527188,2213355989#notes:GuiJ: PVP Baller Roll - MW: Rng, Stab, or Hand
+dimwishlist:item=1481892490&perks=1482024992,1885400500,706527188,3425386926#notes:GuiJ: PVP GuiJ Roll - MW: Rng, Stab, or Hand
+dimwishlist:item=1481892490&perks=1482024992,3230963543,706527188,3425386926#notes:GuiJ: PVP Baller Roll - MW: Rng, Stab, or Hand
+dimwishlist:item=1481892490&perks=1482024992,1561002382,706527188,3425386926#notes:GuiJ: PVP Baller Roll - MW: Rng, Stab, or Hand
+dimwishlist:item=1481892490&perks=1482024992,1885400500,2450788523,2846385770#notes:GuiJ: PVP Baller Roll - MW: Rng, Stab, or Hand
+dimwishlist:item=1481892490&perks=1482024992,1885400500,2450788523,2213355989#notes:GuiJ: PVP Baller Roll - MW: Rng, Stab, or Hand
+dimwishlist:item=1481892490&perks=3250034553,1885400500,2450788523,2213355989#notes:GuiJ: PVP Baller Roll - MW: Rng, Stab, or Hand
+dimwishlist:item=1481892490&perks=3250034553,1885400500,2450788523,2213355989#notes:GuiJ: PVP Baller Roll - MW: Rng, Stab, or Hand
+dimwishlist:item=1481892490&perks=3250034553,1885400500,2450788523,2213355989#notes:GuiJ: PVP Baller Roll - MW: Rng, Stab, or Hand
+dimwishlist:item=1481892490&perks=3250034553,1885400500,706527188,3425386926#notes:GuiJ: PVP Baller Roll - MW: Rng, Stab, or Hand
+dimwishlist:item=1481892490&perks=4090651448,1885400500,706527188,3425386926#notes:GuiJ: PVP Baller Roll - MW: Rng, Stab, or Hand
+dimwishlist:item=1481892490&perks=4090651448,1885400500,706527188,3425386926#notes:GuiJ: PVP Baller Roll - MW: Rng, Stab, or Hand
+dimwishlist:item=1481892490&perks=4090651448,3230963543,706527188,3425386926#notes:GuiJ: PVP Baller Roll - MW: Rng, Stab, or Hand
+dimwishlist:item=1481892490&perks=4090651448,3230963543,706527188,2213355989#notes:GuiJ: PVP Baller Roll - MW: Rng, Stab, or Hand
+dimwishlist:item=1481892490&perks=4090651448,3230963543,706527188,2213355989#notes:GuiJ: PVP Baller Roll - MW: Rng, Stab, or Hand
+
+// The Steady Hand
+dimwishlist:item=2220884262&perks=1926090095,1885400500,588594999,11551321#notes:GuiJ: PVP GuiJ Roll(Consistency is King!)- MW: Rng
+dimwishlist:item=2220884262&perks=1926090093,1885400500,706527188,4152709778#notes:GuiJ: PVP Headshot gifting Machine- MW: Rng
+
+// Uzume RR4
+dimwishlist:item=-2065081837&perks=1556840489,11612903#notes:GuiJ: Look that guardian is throwing lady bugs at the Fallen!
+dimwishlist:item=2065081837&perks=1840239774,3142289711,957782887,1546637391#notes:GuiJ: PVP So close - MW: Hand
+
+// Uzume RR4 (Adept)
+dimwishlist:item=-852228780&perks=1556840489,11612903#notes:GuiJ: Look that guardian is throwing beatles at the Fallen!
+dimwishlist:item=852228780&perks=1840239774,3142289711,957782887,1546637391#notes:GuiJ: PVP GuiJ Roll - MW: Hand
+
+// Zealot's Reward
+dimwishlist:item=2209003210&perks=839105230,3868766766,1645158859,2213355989#notes:GuiJ: PVP GuiJ Roll(Counterbalance or fuck off) - MW: Rng
+
 
 // Charge time sucks
 //notes:DelusionalAI (PvP - PvE): Charge Time Masterworks actually reduce the damage of the weapon. It can actively hurt the weapon, so this is probably trash.
