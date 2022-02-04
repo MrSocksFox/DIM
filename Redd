@@ -172,6 +172,7 @@ dimwishlist:item=3197270240&perks=3142289711,3161816588,47981717#notes:Fox - PvP
 // Fractethyst
 dimwishlist:item=3184681056&perks=1047830412,3142289711,706527188,47981717#notes:GuiJ: PVP DRB replacement- MW: Rng
 dimwishlist:item=3184681056&perks=1047830412,3142289711,3161816588,2360754333,2697220197#notes:Zanto's - PvP, PvE, Gambit - Bubble Shotgun.
+dimwishlist:item=3184681056&perks=4090651448,791862061,3161816588,438098033 #notes:GuiJ: PVE Roll
 
 // Glacioclasm - RB
 //notes:DelusionalAI - PvE God Roll 1 (Range/Reload MW). Substance + Reservoir Burst means you can blow up a group of adds, and still have a full mag to do it again. And again… and again. Due to the slower charge time but higher dmg of high impacts vs plug one or null composure, you’ll want to fire this at the weaken major in the middle of the pack, killing him and hit little buddies. The slower charge time will also give you a lot more range, so feel free to shoot from down town. Use with a major spec mod. Range or Reload MW
@@ -189,7 +190,7 @@ dimwishlist:item=1030895163&perks=1482024992,1687452232,1820235745,1427256713
 dimwishlist:item=1030895163&perks=1467527085,1687452232,1820235745,1427256713
 
 // Glacisoclasm - Harmony
-//notes:DelusionalAI - PVP God Roll 2. Dont over look harmony on this weapon. Its not RB but the massive damage boost you get after killing something if your primary, which is almost all the time, makes this hit like a truck from downtown. 
+//notes: DelusionalAI - PVP God Roll 2. Dont over look harmony on this weapon. Its not RB but the massive damage boost you get after killing something if your primary, which is almost all the time, makes this hit like a truck from downtown. 
 dimwishlist:item=1030895163&perks=438098033
 dimwishlist:item=1030895163&perks=1820235745,438098033
 dimwishlist:item=1030895163&perks=1687452232,438098033
@@ -249,6 +250,9 @@ dimwishlist:item=1476654960&perks=1926090095,3177308360,3523296417,2458213969#no
 
 // Jurassic Green
 dimwishlist:item=2261046232&perks=839105230,1885400500,1570042021,2458213969#notes:Fox - PvP - MW:Range or Stability - Add a Counterbalance Mod to get the Recoil to 95 and this should melt face in Crucible
+
+// Last Dance (The)
+dimwishlist:item=2009277538&perks=445755704,1885400500,588594999,1890422124,186337601#notes: GuiJ: PVP Great Aim Assist and Stability
 
 // Legal Action II
 dimwishlist:item=3409645497&perks=839105230,3142289711,1570042021,3425386926#notes:Fox - PvP - MW: Stability or Range - Hard Hitting Pulse!
@@ -417,6 +421,11 @@ dimwishlist:item=1289000550&perks=1482024992,1645158859,1799762209
 dimwishlist:item=1289000550&perks=3868766766,1645158859,1799762209
 dimwishlist:item=1289000550&perks=2969185026,1645158859,1799762209
 dimwishlist:item=1289000550&perks=1645158859,1799762209
+
+// Premonition
+dimwishlist:item=208088207&perks=839105230,1885400500,2450788523,460017080#notes: GuiJ: PVP Roll, Void Cold Denial 
+dimwishlist:item=208088207&perks=839105230,1885400500,2387244414,957782887#notes GuiJ: PVP Roll
+dimwishlist:item=208088207&perks=202670084,1885400500,3436462433,2213355989#notes GuiJ: PVE Best void pulse
 
 // Revoker
 dimwishlist:item=-654608616#notes:GuiJ: If you are still using this you will probably die alone.
