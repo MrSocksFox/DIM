@@ -304,11 +304,12 @@ dimwishlist:item=3856705927&perks=4090651448,1431678320,47981717,3326204863#note
 dimwishlist:item=4248569242&perks=3250034553,3142289711,1866048759,957782887#notes:GuiJ: PVP GuiJ Roll Chappy Replacement A - MW: Rng or Hand
 
 // Hung Jury (Brave)
-//notes:Fox - PvE if you don’t have an Adept one you love, now is the time! Kinetic Tremors in the 3rd column makes some interesting combos, best paired with One for All for 35% damage boost. 
-dimwishlist:item= 1453235079&perks=3891536761,4049631843
+//notes:Fox - PvE if you don’t have an Adept one you love, now is the time! Kinetic Tremors in the 3rd column makes some interesting combos, best paired with One for All for 35% damage boost. #2 Roll is a kinetic Polaris Lance!
+dimwishlist:item=1453235079&perks=3891536761,4049631843
+dimwishlist:item=1453235079&perks=106909392,3418782618,555281244
 
 // Hung Jury (Brave) Shiny
-//notes:Fox - PvE if you don’t have an Adept one you love, now is the time! Kinetic Tremors in the 3rd column makes some interesting combos, best paired with One for All for 35% damage boost. 
+//notes:Fox - PvE if you don’t have an Adept one you love, now is the time! Kinetic Tremors in the 3rd column makes some interesting combos, best paired with One for All for 35% damage boost. #2 Roll is a kinetic Polaris Lance!
 dimwishlist:item=205225492&perks=3891536761,4049631843
 
 // IKELOS_SMG_v1.0.3 (PvE)
